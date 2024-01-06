@@ -1,0 +1,9 @@
+.timeContainer{
+    background: white;
+    width: 95%;
+    padding: 1em;
+    margin: 1em auto;
+    border-radius: 5px;
+    height: 200px;
+    box-shadow: inset 0px 0px 6px 1px rgba(0, 0, 0, 0.2);;
+}
